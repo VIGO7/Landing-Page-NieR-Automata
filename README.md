@@ -32,5 +32,5 @@ Beneficio final: Nuevos personajes jugables que generan nuevas experiencias basa
 
 ## Diseño Visual
 
-! [Diseño visual de la landing page] (Nier_Automata.png)
+! [Diseño visual de la landing page](Nier_Automata.png)
 https://www.figma.com/design/BQu9zrRJLISeSeAgf3CQOq/Nier--Automata?node-id=0-1&t=hE6Zmnbsupq2mV9d-1
