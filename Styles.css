@@ -1,23 +1,44 @@
-body{ 
-  background-color:#b8b29d;
+@import url('https://fonts.googleapis.com/css2?family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap');
+
+:root {
+  /* Colores Marca Nier: Automata */
+  --Blanco: #FFFFFF;
+  --Negro: #000000;
+  --Ivory: #FFFFF0; 
+  --Gris:  grey;
 }
 
+body{ 
+  background-color:black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+  font-size: 90px;
+  font-family: "Sansita" , sans-serif;
+  color: white;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
 
 p.intro {
   font-size: 17px;
   font-family: sans-serif;
-  background-color: black;
-  color: white;
-  padding: 40px;
+  background-color: var(--Gris);
+  color:  white;
+  padding: 70px;
   margin: 0 auto;
   
 }
 
-h1{
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: #4b413d;
-  background-color:#c3bda8;
-  padding: 20px;
-  margin: 0 auto;
+p.Segundo {
+  font-size: 17px;
+  font-family: sans-serif;
+  color: white;
+  margin: 10 auto;
 }
- #b0ab98
