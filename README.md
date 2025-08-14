@@ -9,11 +9,11 @@ El objetivo de esta página web es presentar a los nuevos personajes jugables de
 ## Colores
 Colores primarios de Nier: Automata
 
-#FFFFFF
+#FFFFFF  (Blanco)
 
-#000000
+#000000  (Negro)
 
-#ede8d0
+#ede8d0  (Beige)
 
 ## Tipografía
 
