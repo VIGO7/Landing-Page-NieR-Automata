@@ -27,18 +27,30 @@ h1{
 }
 
 p.intro {
-  font-size: 17px;
-  font-family: sans-serif;
+  font-size: 20px;
+  font-family: "Sansita" , sans-serif;
   background-color: var(--Gris);
   color:  white;
   padding: 70px;
   margin: 0 auto;
+  margin-top: 20px;
   
 }
 
-p.Segundo {
-  font-size: 17px;
-  font-family: sans-serif;
-  color: white;
-  margin: 10 auto;
+h2{
+  font-size: 50px;
+  font-family: "Sansita" , sans-serif;
+  background-color: var(--Blanco);
+  color: var(--Negro);
+  padding: 70px;
+  margin: 0 auto;
+}
+
+p.sub {
+  font-size: 20px;
+  font-family: "Sansita" , sans-serif;
+  background-color: var(--Blanco);
+  color: var(--Negro);
+  padding: 70px;
+  margin: 0 auto;
 }
