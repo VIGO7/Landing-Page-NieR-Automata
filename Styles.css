@@ -32,9 +32,13 @@ body{
   to {
     translate: 0 -0.15vw;
   }
-  
 }
 
+.Icentral {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
 
 h1{
   font-size: 90px;
@@ -74,4 +78,5 @@ p.sub {
   color: var(--Negro);
   padding: 70px;
   margin: 0 auto;
+  text-align: left;
 }
