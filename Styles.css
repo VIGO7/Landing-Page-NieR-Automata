@@ -10,13 +10,31 @@
 
 body{ 
   background-color:black;
+  text-align: center;
 }
 
-img {
+
+.Logo {
     display: block;
     margin: 0 auto;
-    max-width: fit-content;
+    text-align: center;
+    animation-duration: 0.7s;
+  animation-name: slide-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
+
+
+@keyframes slide-in {
+  from {
+    translate: 0 0.1vw;
+  }
+  to {
+    translate: 0 -0.15vw;
+  }
+  
+}
+
 
 h1{
   font-size: 90px;
@@ -28,18 +46,22 @@ h1{
 }
 
 p.intro {
-  font-size: 20px;
+  font-size: 27px;
   font-family: "Sansita" , sans-serif;
   background-color: var(--Gris);
   color:  white;
   padding: 70px;
   margin: 0 auto;
-  margin-top: 40px;
+  margin-top: 40px; 
+
   
 }
 
+
+
+
 h2{
-  font-size: 50px;
+  font-size: 55px;
   font-family: "Sansita" , sans-serif;
   background-color: var(--Blanco);
   color: var(--Negro);
@@ -48,7 +70,7 @@ h2{
 }
 
 p.sub {
-  font-size: 20px;
+  font-size: 27px;
   font-family: "Sansita" , sans-serif;
   background-color: var(--Blanco);
   color: var(--Negro);
