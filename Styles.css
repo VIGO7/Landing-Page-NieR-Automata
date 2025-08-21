@@ -38,6 +38,9 @@ body{
   margin: 0 auto;
   display: block;
   text-align: center;
+  width: 100%;
+  height: auto;
+  
 }
 
 h1{
@@ -71,12 +74,18 @@ h2{
   margin: 0 auto;
 }
 
-p.sub {
-  font-size: 27px;
+p.Kaine {
+  font-size: 35px;
   font-family: "Sansita" , sans-serif;
-  background-color: var(--Blanco);
-  color: var(--Negro);
-  padding: 70px;
+  color: var(--Blanco);
+  padding: 40px;
   margin: 0 auto;
-  text-align: left;
+  text-align: center;
 }
+
+.Ikaine {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
