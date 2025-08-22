@@ -33,7 +33,7 @@ Beneficio final: Hallar información de los nuevos personajes jugables que gener
 
 ## Diseño Visual
 
-<img src="Nier_Automata">
+<img src="Nier_ Automata.png">
 
 [Diseño visual de la landing page](Nier_Automata.png)
 https://www.figma.com/design/BQu9zrRJLISeSeAgf3CQOq/Nier--Automata?node-id=0-1&t=hE6Zmnbsupq2mV9d-1
