@@ -13,7 +13,7 @@ Colores primarios de Nier: Automata
 
 #000000  (Negro)
 
-#ede8d0  (Beige)
+#808080  (Gris)
 
 ## Tipografía
 
