@@ -26,7 +26,7 @@ Quién: Esta página esta enfocada a todos los amantes del universo de Nier, des
 
 Que necesita: Ofrecer más contenido, otros personajes.
 
-Que ofrece mi producto: Mi producto presenta a los nuevos peronajes jugables que se agregarán a la serie para que el usuario conozca toda la información del personaje como una pequeña descripción, habilidades e imagenes referentes.
+Que ofrece mi producto: Mi producto presenta a los nuevos peronajes jugables que se agregarán a la serie para que el usuario conozca la información del personaje como el nombre y una imagen referente.
 
 Beneficio final: Hallar información de los nuevos personajes jugables que generan nuevas experiencias basadas en el estilo de combate de cada uno y sus personalidades.
 
