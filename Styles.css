@@ -89,3 +89,47 @@ p.Kaine {
   text-align: center;
 }
 
+p.Nier {
+  font-size: 35px;
+  font-family: "Sansita" , sans-serif;
+  color: var(--Blanco);
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Inier {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+p.Emil {
+  font-size: 35px;
+  font-family: "Sansita" , sans-serif;
+  color: var(--Blanco);
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Iemil {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+p.Devola y Popola {
+  font-size: 35px;
+  font-family: "Sansita" , sans-serif;
+  color: var(--Blanco);
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.IdevolayPopola {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
